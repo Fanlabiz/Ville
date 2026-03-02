@@ -1,5 +1,5 @@
 import pandas as pd
-import numpy asumpy as np
+import numpy as np
 import streamlit as st
 from openpyxl import Workbook
 from openpyxl.styles import PatternFill, Alignment, Font
