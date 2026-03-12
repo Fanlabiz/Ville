@@ -877,4 +877,4 @@ else:
 
 # Pied de page
 st.markdown("---")
-st.mark.markdown("🎯 Optimiseur de placement v2.0 - Compatible iPad")
+st.markdown("🎯 Optimiseur de placement v2.0 - Compatible iPad")
