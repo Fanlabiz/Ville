@@ -1,5 +1,5 @@
 import pandas as pd
-import numpy asnp
+import numpy as np
 import streamlit as st
 import io
 from openpyxl import Workbook
