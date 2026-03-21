@@ -4,4 +4,4 @@ numpy
 plotly
 openpyxl
 matplotlib
-BytesIO
+bytesio
