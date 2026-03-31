@@ -7,6 +7,7 @@ from openpyxl.utils import get_column_letter
 import io
 import copy
 import itertools
+from collections import deque
 
 st.set_page_config(page_title="Optimiseur de Ville", layout="wide")
 st.title("🏙️ Optimiseur de placement de bâtiments")
