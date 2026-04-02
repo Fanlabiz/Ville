@@ -20,7 +20,7 @@ import io
 # ———————————————
 
 st.set_page_config(
-page_title=“Optimiseur de Ville”,
+page_title="Optimiseur de Ville",
 page_icon=“🏙️”,
 layout=“wide”,
 )
